@@ -1,4 +1,4 @@
 print("Hello Git App")
 print("welcome to the feature branch")
 print("Learning git for AI")
-print("Git mode :main")
+print("Git mode :production")
